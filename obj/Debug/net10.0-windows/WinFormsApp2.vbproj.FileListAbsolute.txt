@@ -1,0 +1,17 @@
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net10.0-windows\WinFormsApp2.exe
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net10.0-windows\WinFormsApp2.deps.json
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net10.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net10.0-windows\WinFormsApp2.dll
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net10.0-windows\WinFormsApp2.pdb
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\WinFormsApp2.Form1.resources
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\WinFormsApp2.vbproj.GenerateResource.cache
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\WinFormsApp2.AssemblyInfo.vb
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\WinFormsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\WinFormsApp2.dll
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\refint\WinFormsApp2.dll
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\WinFormsApp2.pdb
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\ref\WinFormsApp2.dll
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\WinForms.C52DAF7E.Up2Date
